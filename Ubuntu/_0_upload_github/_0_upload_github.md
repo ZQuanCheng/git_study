@@ -154,4 +154,12 @@
 > 
 > ```
 
+> <font color="yellow"> 对于 public 仓库</font>
+> * 可以直接git clone
+> * 不能直接push，需要token
+
+> <font color="yellow"> 对于 private 仓库</font>
+> * 不能直接git clone，需要token
+> * 不能直接push，需要token
+
 
