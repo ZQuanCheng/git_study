@@ -87,6 +87,18 @@
 > 
 
 
+> `Yang Tian`姐用到的`git`命令
+> 
+> ```bash
+> 
+> git stash show
+> 
+> git stash
+> 
+> git pull
+> ```
+> 
+
 
 
 
